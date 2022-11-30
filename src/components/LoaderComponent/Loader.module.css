@@ -1,0 +1,8 @@
+.loader {
+    display: flex;
+    padding: 1rem;
+    justify-self: center;
+    border: darkcyan 2px dashed;
+}
+
+
